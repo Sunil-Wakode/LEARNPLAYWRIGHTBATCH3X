@@ -93,4 +93,8 @@ This is raw CPU instructions — unreadable without disassembly tools, but it ru
 
 ---
 
-> **TL;DR:** Source code is what you write. Bytecode is what the VM reads. Binary code is what the CPU runs. JavaScript lives in the first two — V8 handles bytecode internally, and the JIT occasionally spits out machine code for performance.
+> **TL;DR:** 
+| Source code is what you write.
+| Bytecode is what the VM reads.
+| Binary code is what the CPU runs.
+| JavaScript lives in the first two — V8 handles bytecode internally, and the JIT occasionally spits out machine code for performance.
